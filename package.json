@@ -8,22 +8,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/instalog.git"
+    "url": "https://github.com/Shamselgazzar/instalog.git"
   },
   "keywords": [
     "instalog",
     "api",
-    "node-fetch",
-    "dotenv"
+    "events",
+    "actions",
+    "actors",
+    "nodejs"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Shams Elgazzar",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
     "node-fetch": "^2.7.0"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/instalog/issues"
+    "url": "https://github.com/Shamselgazzar/instalog/issues"
   },
-  "homepage": "https://github.com/yourusername/instalog#readme"
+  "homepage": "https://github.com/Shamselgazzar/instalog#readme"
 }
