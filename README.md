@@ -8,7 +8,7 @@ You can install `instatus-instalog` using npm:
 # Setup
 1- Create a .env file in your project root with the following content:
 
-`INSTALOG_API_BASE_URL=https://your-api-base-url.com`
+`INSTALOG_API_BASE_URL=https://your-api-base-url`
 
 2- Require and use the module in your JavaScript code:
 
