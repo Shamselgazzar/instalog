@@ -2,8 +2,8 @@
 InstaLog is a Node.js module for interacting with the InstaLog API. It provides methods for creating and listing events.
 
 # Installation
-You can install `instalog` using npm:
-`npm install instalog`
+You can install `instatus-instalog` using npm:
+`npm install instatus-instalog`
 
 # Setup
 1- Create a .env file in your project root with the following content:
@@ -26,4 +26,3 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
