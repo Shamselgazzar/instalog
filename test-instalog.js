@@ -1,5 +1,5 @@
 
-const InstaLog = require('./instalog');
+const InstaLog = require('.');
 const instalog = new InstaLog(process.env.SECRET_KEY);
 
 // Example event object to create
