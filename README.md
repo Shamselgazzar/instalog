@@ -13,7 +13,9 @@ You can install `instalog` using npm:
 2- Require and use the module in your JavaScript code:
 
 `const InstaLog = require('instatus-instalog');`
+
 `// Initialize with your API secret key`
+
 `const instaLog = new InstaLog('your-secret-key');`
 
 # Configuration
