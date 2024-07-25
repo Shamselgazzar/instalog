@@ -1,6 +1,29 @@
 {
+  "name": "instalog",
+  "version": "1.0.0",
+  "description": "A Node.js module for interacting with the InstaLog API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/instalog.git"
+  },
+  "keywords": [
+    "instalog",
+    "api",
+    "node-fetch",
+    "dotenv"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.4.5",
     "node-fetch": "^2.7.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/instalog/issues"
+  },
+  "homepage": "https://github.com/yourusername/instalog#readme"
 }

@@ -12,17 +12,18 @@ const eventObject = {
 };
 
 // Create an event
-instalog.createEvent(eventObject)
-  .then(event => {
-    console.log('Event created:', event);
-  })
-  .catch(error => {
-    console.error('Error creating event:', error);
-  });
+// instalog.createEvent(eventObject)
+//   .then(event => {
+//     console.log('Event created:', event);
+//   })
+//   .catch(error => {
+//     console.error('Error creating event:', error);
+//   });
 
 // List events with parameters
 const params = {
-  actorName: 'john',
+  actorName: '',
+  actorId: '',
   page: 1,
   pageSize: 10
 };
